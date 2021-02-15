@@ -6,7 +6,7 @@ import java.util.List;
 
 public interface ItemsDao {
     /***
-     * 查询所有
+     * 查询所有asdf
      * @return
      */
     List<Items> findAll();
